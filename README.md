@@ -1,5 +1,3 @@
-![Profile Banner](banner.png)
-
 # Hi there, I'm Ram Joshi 👋
 
 ## 📚 Table of Contents
