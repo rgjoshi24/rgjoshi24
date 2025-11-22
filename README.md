@@ -46,4 +46,4 @@ Passionate about building **practical AWS Terraform projects** and enabling scal
 ---
 
 ### 🌟 Keywords for Discoverability
-AWS | Terraform | DevOps | Infrastructure as Code | VPC | EC2 | Bastion Host | NAT Gateway | Cloud Automation | Practical Projects
+DevSecOps | Infrastructure as Code | Cloud Automation | Practical Projects | AWS | Azure | Azure DevOps | Terraform | Jenkins | Chef | Git 
